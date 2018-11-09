@@ -7,3 +7,4 @@ import time
 url = "https://su-gi-rx.com/"
 res = req.urlopen(url)
 
+print(res)
