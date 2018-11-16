@@ -1,6 +1,6 @@
 # 【速習】PythonでWeb Scraping 【スクレイピング】
 ## 概要
-https://x-hack.connpass.com/event/107756/
+[速習!!PythonでWeb Scraping](https://x-hack.connpass.com/event/107756/)
 こちらのワークショップ用のリポジトリです。
 
 ## 資料
