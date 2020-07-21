@@ -1,0 +1,17 @@
+{
+    "name":"松田",
+    "age":35,
+    "favorite_foods": ["焼肉", "寿司", "ハンバーグ"],
+    "pets": [
+        {
+            "name":"みけ",
+            "age":3,
+            "favorite_foods": ["鰹節", "チャオチュール"]
+        },
+        {
+            "name":"みーこ",
+            "age":5,
+            "favorite_foods": ["鰹節", "チャオチュール"]
+        }
+    ]
+}
